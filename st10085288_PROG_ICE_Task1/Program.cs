@@ -52,6 +52,7 @@ namespace st10085288_PROG_ICE_Task1
                     Console.WriteLine(ex.Message);
                 }
 
+                
             }
 
 
